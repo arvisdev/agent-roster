@@ -1,0 +1,291 @@
+{
+  "_note": "AGENT ROSTER (ephemeral-org) \u2014 machine-readable catalog index for the ephemeral-agents POC manager (manager: MatchAgent over role/ref; hermes executor: persona.md + skill-and-tools.md + behavioral-spec.md per folder).",
+  "agents": [
+    {
+      "ref": "ephemeral-org/eph-backend-engineer",
+      "name": "Backend Engineer",
+      "role": "backend engineer",
+      "folder": "ephemeral-org/eph-backend-engineer",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-backend-engineer/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-behavioral-specification-specialist",
+      "name": "Behavioral Specification Specialist",
+      "role": "behavioral specification specialist",
+      "folder": "ephemeral-org/eph-behavioral-specification-specialist",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-behavioral-specification-specialist/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-business-requirements-specialist",
+      "name": "Business Requirements Specialist",
+      "role": "business requirements specialist",
+      "folder": "ephemeral-org/eph-business-requirements-specialist",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-business-requirements-specialist/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-chief-of-staff",
+      "name": "Chief of Staff",
+      "role": "chief of staff",
+      "folder": "ephemeral-org/eph-chief-of-staff",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-chief-of-staff/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-css-specialist",
+      "name": "CSS Specialist",
+      "role": "css specialist",
+      "folder": "ephemeral-org/eph-css-specialist",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-css-specialist/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-data-architect",
+      "name": "Data Architect",
+      "role": "data architect",
+      "folder": "ephemeral-org/eph-data-architect",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-data-architect/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-data-engineer",
+      "name": "Data Engineer",
+      "role": "data engineer",
+      "folder": "ephemeral-org/eph-data-engineer",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-data-engineer/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-domain-compliance-specialist",
+      "name": "Domain Compliance Specialist",
+      "role": "domain compliance specialist",
+      "folder": "ephemeral-org/eph-domain-compliance-specialist",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-domain-compliance-specialist/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-domain-sme",
+      "name": "Domain SME",
+      "role": "domain subject matter expert",
+      "folder": "ephemeral-org/eph-domain-sme",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-domain-sme/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-enterprise-architect",
+      "name": "Enterprise Architect",
+      "role": "enterprise architect",
+      "folder": "ephemeral-org/eph-enterprise-architect",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-enterprise-architect/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-fullstack-engineer",
+      "name": "Full-Stack Engineer",
+      "role": "full-stack engineer",
+      "folder": "ephemeral-org/eph-fullstack-engineer",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-fullstack-engineer/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-process-improvement-analyst",
+      "name": "Process Improvement Analyst",
+      "role": "process improvement analyst",
+      "folder": "ephemeral-org/eph-process-improvement-analyst",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-process-improvement-analyst/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-product-manager",
+      "name": "Product Manager",
+      "role": "product manager",
+      "folder": "ephemeral-org/eph-product-manager",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-product-manager/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-quality-assurance-specialist",
+      "name": "Quality Assurance Specialist",
+      "role": "quality assurance specialist",
+      "folder": "ephemeral-org/eph-quality-assurance-specialist",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-quality-assurance-specialist/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-requirements-analyst",
+      "name": "Requirements Analyst",
+      "role": "requirements analyst",
+      "folder": "ephemeral-org/eph-requirements-analyst",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-requirements-analyst/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-risk-assessment-analyst",
+      "name": "Risk Assessment Analyst",
+      "role": "risk assessment analyst",
+      "folder": "ephemeral-org/eph-risk-assessment-analyst",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-risk-assessment-analyst/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-security-architect",
+      "name": "Security Architect",
+      "role": "security architect",
+      "folder": "ephemeral-org/eph-security-architect",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-security-architect/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-solution-architect",
+      "name": "Solution Architect",
+      "role": "solution architect",
+      "folder": "ephemeral-org/eph-solution-architect",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-solution-architect/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-stakeholder-analyst",
+      "name": "Stakeholder Analyst",
+      "role": "stakeholder analyst",
+      "folder": "ephemeral-org/eph-stakeholder-analyst",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-stakeholder-analyst/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-technical-feasibility-specialist",
+      "name": "Technical Feasibility Specialist",
+      "role": "technical feasibility specialist",
+      "folder": "ephemeral-org/eph-technical-feasibility-specialist",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-technical-feasibility-specialist/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-uiux-designer",
+      "name": "UI/UX Designer",
+      "role": "ui/ux designer",
+      "folder": "ephemeral-org/eph-uiux-designer",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-uiux-designer/behavioral-spec.md"
+    },
+    {
+      "ref": "ephemeral-org/eph-unit-test-engineer",
+      "name": "Unit Test Engineer",
+      "role": "unit test engineer",
+      "folder": "ephemeral-org/eph-unit-test-engineer",
+      "skills": [
+        "Core Competency (the one I execute)",
+        "Execution Model",
+        "Quality Bar (before returning)",
+        "Constraints"
+      ],
+      "spec_ref": "ephemeral-org/eph-unit-test-engineer/behavioral-spec.md"
+    }
+  ]
+}
